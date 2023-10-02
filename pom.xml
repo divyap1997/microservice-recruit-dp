@@ -7,7 +7,7 @@
         <spring-cloud.version>Finchley.SR2</spring-cloud.version>
         <nacos.version>0.2.1.RELEASE</nacos.version>
         <sentinel.version>0.2.1.RELEASE</sentinel.version>
-        <feign.version>2.0.2.RELEASE</feign.version>
+        <feign.version>3.0.0</feign.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <docker.image.prefix>stalary</docker.image.prefix>
